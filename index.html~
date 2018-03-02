@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>BeautyCounter</title>
+        <!-- jquery link -->
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <!-- veiwport info for media query -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="./assets/css/style.css" rel="stylesheet" type="text/css">
+        
+    </head>
+    <body>
+      <header>
+        <h2 class="header_new">NEW</h2>
+        <h1 class="header_h1">Good Hair Days Start with Safer Ingredients</h1>
+        <p class="header_p">Formulated without sulfates, mineral oil, silicones, or synthetic fragrences, our next-generation hair care delivers high performance and safety.</p>
+        <img class="header_hero" src="./assets/images/hero.jpg" alt="hero"</img>
+      </header>
+
+      <nav class="nav">
+        <a class="nav_item" href="/volume&shape">Volume and Shape</a>
+        <a class="nav_item" href="/smooth&control">Smooth & Control</a>
+        <a class="nav_item" href="/repair&nurish">Repair & Nurish</a>
+        <a class="nav_item" href="/reviews">Reviews</a>
+        <a class="nav_item" href="/how-tovideoes">How-To Videos</a>
+        <a class="nav_item" href="ingredients">Ingrediants</a>
+      </nav>
+
+      <div class="info">
+        <section class="info_pick">
+          <h3 class="info_pick_h3">Volume & Shape</h3>
+          <p class="info_pick_p">Reveal beautiful body and enviable oomph with this collection for fine, flat hair featuring volumizing hibiscus protiens. Safe for color treated hair.</p>
+        </section>
+      </div>
+        <img class="info_img" src="./assets/images/girl.jpg" alt="girl">
+      <script src type="text/javascript"></script>
+    </body>
+</html>
